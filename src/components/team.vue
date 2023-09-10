@@ -77,5 +77,22 @@ export default{
             <a class="bg-green-400/10 text-green-400 py-2 px-3 rounded-md" href="//t.me/DevelopersChat" target="_blank">Go</a>
         </div>
         
+        <div class="h-fit px-2 sm:px-4 py-3 text-center w-full flex justify-between items-center border-[1px] border-gray-200 border-solid rounded-md flex-col sm:flex-row gap-y-2 sm:gap-y-0">
+            <h2 class="bg-blue-400/10 text-blue-400 py-2 px-2 sm:px-3 rounded-md">Parsa's Stuff</h2>
+            <span class="bg-yellow-500/10 text-yellow-500 py-2 px-3 rounded-md hidden md:block">Owner: <a href="//t.me/cParsa" target="_blank">@cParsa</a></span>
+            <a class="bg-green-400/10 text-green-400 py-2 px-3 rounded-md" href="//t.me/ParsaCo" target="_blank">Go</a>
+        </div>
+
+        <div class="h-fit px-2 sm:px-4 py-3 text-center w-full flex justify-between items-center border-[1px] border-gray-200 border-solid rounded-md flex-col sm:flex-row gap-y-2 sm:gap-y-0">
+            <h2 class="bg-blue-400/10 text-blue-400 py-2 px-2 sm:px-3 rounded-md">Novin Bots</h2>
+            <span class="bg-yellow-500/10 text-yellow-500 py-2 px-3 rounded-md hidden md:block">Owner: <a href="//t.me/hossein_mokhtari90" target="_blank">@hossein_mokhtari90</a></span>
+            <a class="bg-green-400/10 text-green-400 py-2 px-3 rounded-md" href="//t.me/Novin_Bots" target="_blank">Go</a>
+        </div>
+
+        <div class="h-fit px-2 sm:px-4 py-3 text-center w-full flex justify-between items-center border-[1px] border-gray-200 border-solid rounded-md flex-col sm:flex-row gap-y-2 sm:gap-y-0">
+            <h2 class="bg-blue-400/10 text-blue-400 py-2 px-2 sm:px-3 rounded-md">Galaxy Developers</h2>
+            <span class="bg-yellow-500/10 text-yellow-500 py-2 px-3 rounded-md hidden md:block">Owner: <a href="//t.me/dev_Devils" target="_blank">@dev_Devils</a></span>
+            <a class="bg-green-400/10 text-green-400 py-2 px-3 rounded-md" href="//t.me/Galaxy_deve" target="_blank">Go</a>
+        </div>
     </section>
 </template>
